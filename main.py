@@ -1,4 +1,9 @@
 from src import variaveis
+from src import funcoes
+from src import conversoes
+from src import input_usuario
+
+
 
 
 
@@ -11,7 +16,16 @@ def main():
 
         # ctrl + j > py main.py
 
+input_usuario.solicitar_string()
+
+
+
 
 variaveis.exemplo_strings()
 variaveis.apresentar_dados_pacientes()
 variaveis.apresentar_dados_complemetares()
+
+
+funcoes.processar_pedido()
+funcoes.funcao_executar()
+

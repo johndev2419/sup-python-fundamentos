@@ -4,6 +4,9 @@ from src import conversoes
 from src import input_usuario
 from src import funcoes2
 from src import exercicio_aluno
+from src.inputs import exemplo_questionary
+from src import dicionario
+from src import list
 
 
 
@@ -33,5 +36,9 @@ def main():
 
 # funcoes2.calcular_valor_compra_paraguai()
 
-exercicio_aluno.verificar_aluno_aprovado_ou_reprovado()
+# exercicio_aluno.verificar_aluno_aprovado_ou_reprovado()
 
+# exemplo_questionary.exemplos()
+
+# dicionario.exemplo_dicionario_aluno()
+list.exemplo_solictar_dados_usuario_otimizado()

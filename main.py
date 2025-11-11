@@ -7,6 +7,8 @@ from src import exercicio_aluno
 from src.inputs import exemplo_questionary
 from src import dicionario
 from src import list
+from src import arquivos
+from src.exercicio_ptatico_json import resolucao
 
 
 
@@ -41,4 +43,6 @@ def main():
 # exemplo_questionary.exemplos()
 
 # dicionario.exemplo_dicionario_aluno()
-list.exemplo_solictar_dados_usuario_otimizado()
+# list.exemplo_solictar_dados_usuario_otimizado()
+
+resolucao.exercicio04()

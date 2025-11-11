@@ -57,8 +57,7 @@ def exemplo_solictar_dados_usuario_otimizado():
     print(f"""soma: {soma}""")
 
 
-def exemplo_lista_com_dicionario():
-    #pip install --requirement requirements.txt
+
     
 
 

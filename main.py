@@ -46,3 +46,4 @@ def main():
 # list.exemplo_solictar_dados_usuario_otimizado()
 
 resolucao.exercicio04()
+
